@@ -1,0 +1,57 @@
+[
+  {
+    "age": "At Birth",
+    "vaccines": ["BCG", "OPV-0 (Polio Oral)", "Hepatitis-B (Birth dose)"],
+    "next_due": "6 Weeks"
+  },
+  {
+    "age": "6 Weeks",
+    "vaccines": ["OPV-1", "DPT-1 (Pentavalent: DPT+HepB+Hib)", "IPV-1 (Polio Injection)", "Rotavirus-1", "PCV-1"],
+    "next_due": "10 Weeks"
+  },
+  {
+    "age": "10 Weeks",
+    "vaccines": ["OPV-2", "DPT-2 (Pentavalent)", "IPV-2", "Rotavirus-2"],
+    "next_due": "14 Weeks"
+  },
+  {
+    "age": "14 Weeks",
+    "vaccines": ["OPV-3", "DPT-3 (Pentavalent)", "IPV-3", "Rotavirus-3", "PCV-2"],
+    "next_due": "9 Months"
+  },
+  {
+    "age": "9 Months",
+    "vaccines": ["Measles-Rubella (MR-1)", "Japanese Encephalitis (JE-1, only in endemic areas)", "PCV-Booster"],
+    "next_due": "12 Months"
+  },
+  {
+    "age": "12 Months",
+    "vaccines": ["Hepatitis-A (optional/private)"],
+    "next_due": "16-24 Months"
+  },
+  {
+    "age": "16-24 Months",
+    "vaccines": ["DPT Booster-1", "OPV Booster", "Measles-Rubella (MR-2)", "Varicella (optional)"],
+    "next_due": "2 Years"
+  },
+  {
+    "age": "2 Years",
+    "vaccines": ["Typhoid Conjugate Vaccine (TCV)"],
+    "next_due": "4-6 Years"
+  },
+  {
+    "age": "4-6 Years",
+    "vaccines": ["DPT Booster-2", "OPV Booster", "Varicella-2 (optional)"],
+    "next_due": "10 Years"
+  },
+  {
+    "age": "10 Years",
+    "vaccines": ["Tdap/Td", "HPV (for girls 9–14 years, optional but recommended)"],
+    "next_due": "16 Years"
+  },
+  {
+    "age": "16 Years",
+    "vaccines": ["Td Booster"],
+    "next_due": "—"
+  }
+]
