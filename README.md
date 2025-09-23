@@ -2,7 +2,7 @@
 "Your personal immunization assistant - never miss a vaccine, stay healthy!"
 
 
-
+---
 
 🧒 Immunisation Recorder & Reminder System
 
@@ -94,22 +94,6 @@ Government of India – National Immunization Schedule (NIS)
 World Health Organization (WHO)
 
 Indian Academy of Pediatrics (IAP)
-
-
-##JSON Example:
-
-[
-  {
-    "age": "At Birth",
-    "vaccines": ["BCG", "OPV-0", "Hepatitis-B (Birth dose)"],
-    "next_due": "6 Weeks"
-  },
-  {
-    "age": "6 Weeks",
-    "vaccines": ["OPV-1", "DPT-1 (Pentavalent)", "IPV-1", "Rotavirus-1", "PCV-1"],
-    "next_due": "10 Weeks"
-  }
-]
 
 
 ---
